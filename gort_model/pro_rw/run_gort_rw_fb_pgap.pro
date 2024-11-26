@@ -1,0 +1,63 @@
+pro run_gort
+
+ tek_color
+  ; Setting plotting
+  set_plot,'ps'
+  
+  ;device, file= 'comp.eps', /color,/TIMES,/BOLD,/portrait, ysize=28, YOFFSET=0, xsize=21, xOFFSET=0.0
+  device, file= 'rw_fb_pgap.eps', /TIMES,/BOLD,/portrait, ysize=28, YOFFSET=0, xsize=21, xOFFSET=0.0
+  !p.multi=[0,3,3]
+
+nsite = 9
+indir = '/data/shared/src/STV/LidarSimulation/output_008/redwood_output/branch/*.in' 
+fplot = findfile(indir)
+
+for i=1, nsite do begin
+
+ ; cmd='cp '+indir+fplot(i-1)+ ' gort.in'
+  cmd='cp '+fplot(i-1)+ ' gort.in'
+  spawn, cmd, result, err
+  if (err ne '') then stop
+
+  ; Run GORT model. For only 1 type on the site, it will run single gort. While for 2 types, it runs convolute GORT
+  cmd='../model/gort_lidar > temp.txt'
+
+  spawn, cmd, result, err
+ ; if (err ne '') then stop
+  print, 'output created'
+
+  ;run guassian convolution
+  temp_str=''
+  gn_level=0
+  gout = {height:0.0,fp:0.0,efp:0.0,pgap:0.0,dpdz:0.0,wvfm:0.0}
+
+;read gort output file 
+  close,2
+  openr, 2, 'gort.out'
+  readf, 2, gn_level,dz
+  print, gn_level, dz
+  n_ext=10./dz  
+  n_tot=gn_level+n_ext
+
+  ght=fltarr(gn_level))
+  pgap=fltarr(gn_level)
+  jx1 = 0
+  jx2 = 1
+  jh1 = 0
+  jh2 = ght[gn_level] 
+
+  readf, 2, temp_str
+  readf, 2, temp_str
+  for ilevel=0, gn_level-1 do begin
+;    print,ilevel
+      readf, 2, gout
+      ght[ilevel]=gout.height
+      pgap[ilevel]=gout.pgap
+  endfor
+  close, 2
+  plot, pgap, ght,title=strmid(fplot(i-1),63,17),xtitle='Pgap', ytitle='Height(m)', xrange=[jx1,jx2], yrange=[jh1,jh2],charsize=cs,charthick=ct
+DEVICE,/CLOSE 
+
+stop
+
+end

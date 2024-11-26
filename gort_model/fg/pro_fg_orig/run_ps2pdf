@@ -1,0 +1,10 @@
+
+ps2pdf fg_f_afp.eps
+ps2pdf fg_f_fp.eps
+ps2pdf fg_f_pgap.eps
+ps2pdf fg_f_wvfm.eps
+
+ps2pdf fg_fb_afp.eps
+ps2pdf fg_fb_fp.eps
+ps2pdf fg_fb_pgap.eps
+ps2pdf fg_fb_wvfm.eps

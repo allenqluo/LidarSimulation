@@ -1,0 +1,485 @@
+Tree 1 at -37.49, 25.75 found in: [3, 1]
+	Tree 1 crown volume is: 423.51810816824894
+	Tree 1 intersection percentage with Circle [3, 1] is: 0.4652725465190833
+	Approx. Tree 1 intersection volume with Circle [3, 1] is: 197.05134868438574
+
+Tree 2 at -42.18, 16.03 with radius 5.93701 not found within any grid circle!
+
+Tree 3 at -22.73, 29.06 found in: [3, 1]
+	Tree 3 crown volume is: 446.1502479699771
+	Tree 3 intersection percentage with Circle [3, 1] is: 1.0
+	Approx. Tree 3 intersection volume with Circle [3, 1] is: 446.1502479699771
+
+Tree 4 at -31.53, 33.15 found in: [3, 1]
+	Tree 4 crown volume is: 893.8147191539706
+	Tree 4 intersection percentage with Circle [3, 1] is: 0.7263817659901105
+	Approx. Tree 4 intersection volume with Circle [3, 1] is: 649.2507141670159
+
+Tree 5 at -34.48, 18.43 found in: [3, 1]
+	Tree 5 crown volume is: 234.57711397077097
+	Tree 5 intersection percentage with Circle [3, 1] is: 0.6716121768741096
+	Approx. Tree 5 intersection volume with Circle [3, 1] is: 157.54484615875558
+
+Tree 6 at -25.75, 17.33 found in: [3, 1]
+	Tree 6 crown volume is: 367.1996157047156
+	Tree 6 intersection percentage with Circle [3, 1] is: 1.0
+	Approx. Tree 6 intersection volume with Circle [3, 1] is: 367.1996157047156
+
+Tree 7 at -38.14, 9.327 with radius 3.04686 not found within any grid circle!
+
+Tree 8 at -44.02, -15.74 with radius 4.76444 not found within any grid circle!
+
+Tree 9 at -8.337, 35.72 found in: [3, 2]
+	Tree 9 crown volume is: 161.05622421357793
+	Tree 9 intersection percentage with Circle [3, 2] is: 0.23777820037322045
+	Approx. Tree 9 intersection volume with Circle [3, 2] is: 38.29565915241045
+
+Tree 10 at -20.69, 39.41 found in: [3, 1]
+	Tree 10 crown volume is: 251.9756592915421
+	Tree 10 intersection percentage with Circle [3, 1] is: 0.04334232545806171
+	Approx. Tree 10 intersection volume with Circle [3, 1] is: 10.921211032523688
+
+Tree 11 at -17.9, 13.09 found in: [3, 1]
+	Tree 11 crown volume is: 1111.2428547525956
+	Tree 11 intersection percentage with Circle [3, 1] is: 0.2997153435738256
+	Approx. Tree 11 intersection volume with Circle [3, 1] is: 333.056534006133
+
+Tree 11 at -17.9, 13.09 found in: [2, 1]
+	Tree 11 crown volume is: 1111.2428547525956
+	Tree 11 intersection percentage with Circle [2, 1] is: 0.19398058820022915
+	Approx. Tree 11 intersection volume with Circle [2, 1] is: 215.5595425982103
+
+Tree 12 at -29.75, 24.75 found in: [3, 1]
+	Tree 12 crown volume is: 109.56265422729902
+	Tree 12 intersection percentage with Circle [3, 1] is: 1.0
+	Approx. Tree 12 intersection volume with Circle [3, 1] is: 109.56265422729902
+
+Tree 13 at -29.68, 8.501 found in: [2, 1]
+	Tree 13 crown volume is: 534.2812627782972
+	Tree 13 intersection percentage with Circle [2, 1] is: 0.8887804817776812
+	Approx. Tree 13 intersection volume with Circle [2, 1] is: 474.8587581368829
+
+Tree 14 at -34.43, 2.368 found in: [2, 1]
+	Tree 14 crown volume is: 157.31379333081554
+	Tree 14 intersection percentage with Circle [2, 1] is: 1.0
+	Approx. Tree 14 intersection volume with Circle [2, 1] is: 157.31379333081554
+
+Tree 15 at -43.14, -3.139 with radius 5.12901 not found within any grid circle!
+
+Tree 16 at -35.18, -6.605 found in: [2, 1]
+	Tree 16 crown volume is: 57.20245069391277
+	Tree 16 intersection percentage with Circle [2, 1] is: 0.597261915384472
+	Approx. Tree 16 intersection volume with Circle [2, 1] is: 34.16484526613216
+
+Tree 17 at -34.76, -30.93 found in: [1, 1]
+	Tree 17 crown volume is: 246.53659300343722
+	Tree 17 intersection percentage with Circle [1, 1] is: 0.6904672772141489
+	Approx. Tree 17 intersection volume with Circle [1, 1] is: 170.2254501047361
+
+Tree 18 at -1.568, 40.47 with radius 3.00646 not found within any grid circle!
+
+Tree 19 at -1.018, 30.47 found in: [3, 2]
+	Tree 19 crown volume is: 453.7116901773865
+	Tree 19 intersection percentage with Circle [3, 2] is: 1.0
+	Approx. Tree 19 intersection volume with Circle [3, 2] is: 453.7116901773865
+
+Tree 20 at -17.4, 21.26 found in: [3, 1]
+	Tree 20 crown volume is: 887.5099512070298
+	Tree 20 intersection percentage with Circle [3, 1] is: 0.947213027675467
+	Approx. Tree 20 intersection volume with Circle [3, 1] is: 840.6609879749167
+
+Tree 21 at -14.06, 29.86 found in: [3, 1]
+	Tree 21 crown volume is: 2906.766978186871
+	Tree 21 intersection percentage with Circle [3, 1] is: 0.47555574778969306
+	Approx. Tree 21 intersection volume with Circle [3, 1] is: 1382.3297439620437
+
+Tree 21 at -14.06, 29.86 found in: [3, 2]
+	Tree 21 crown volume is: 2906.766978186871
+	Tree 21 intersection percentage with Circle [3, 2] is: 0.2574827790060743
+	Approx. Tree 21 intersection volume with Circle [3, 2] is: 748.4424394666445
+
+Tree 22 at -7.211, 1.474 found in: [2, 2]
+	Tree 22 crown volume is: 723.3038862700612
+	Tree 22 intersection percentage with Circle [2, 2] is: 1.0
+	Approx. Tree 22 intersection volume with Circle [2, 2] is: 723.3038862700612
+
+Tree 23 at -20.92, 5.497 found in: [2, 1]
+	Tree 23 crown volume is: 876.3145910738875
+	Tree 23 intersection percentage with Circle [2, 1] is: 1.0
+	Approx. Tree 23 intersection volume with Circle [2, 1] is: 876.3145910738875
+
+Tree 24 at -16.85, -1.138 found in: [2, 1]
+	Tree 24 crown volume is: 475.67078567904525
+	Tree 24 intersection percentage with Circle [2, 1] is: 1.0
+	Approx. Tree 24 intersection volume with Circle [2, 1] is: 475.67078567904525
+
+Tree 25 at -26.88, 0.3928 found in: [2, 1]
+	Tree 25 crown volume is: 117.71863860000644
+	Tree 25 intersection percentage with Circle [2, 1] is: 1.0
+	Approx. Tree 25 intersection volume with Circle [2, 1] is: 117.71863860000644
+
+Tree 26 at -27.79, -13.39 found in: [2, 1]
+	Tree 26 crown volume is: 737.6380929411058
+	Tree 26 intersection percentage with Circle [2, 1] is: 0.30272242328439425
+	Approx. Tree 26 intersection volume with Circle [2, 1] is: 223.29959100201077
+
+Tree 26 at -27.79, -13.39 found in: [1, 1]
+	Tree 26 crown volume is: 737.6380929411058
+	Tree 26 intersection percentage with Circle [1, 1] is: 0.5406157074334659
+	Approx. Tree 26 intersection volume with Circle [1, 1] is: 398.77873944522855
+
+Tree 27 at -35.2, -21.08 found in: [1, 1]
+	Tree 27 crown volume is: 429.1903594489728
+	Tree 27 intersection percentage with Circle [1, 1] is: 0.7382684388438725
+	Approx. Tree 27 intersection volume with Circle [1, 1] is: 316.85769663723363
+
+Tree 28 at -21.7, -39.34 found in: [1, 1]
+	Tree 28 crown volume is: 327.7467028801109
+	Tree 28 intersection percentage with Circle [1, 1] is: 0.10552480088501495
+	Approx. Tree 28 intersection volume with Circle [1, 1] is: 34.585405562143855
+
+Tree 29 at -9.865, 45.29 with radius 4.1094 not found within any grid circle!
+
+Tree 30 at 7.746, 37.04 found in: [3, 2]
+	Tree 30 crown volume is: 485.7228905061939
+	Tree 30 intersection percentage with Circle [3, 2] is: 0.19754611480376233
+	Approx. Tree 30 intersection volume with Circle [3, 2] is: 95.95266989075186
+
+Tree 31 at -6.904, 24.4 found in: [3, 2]
+	Tree 31 crown volume is: 505.5171483447983
+	Tree 31 intersection percentage with Circle [3, 2] is: 1.0
+	Approx. Tree 31 intersection volume with Circle [3, 2] is: 505.5171483447983
+
+Tree 32 at -10.06, 15.06 found in: [3, 2]
+	Tree 32 crown volume is: 152.71294839810867
+	Tree 32 intersection percentage with Circle [3, 2] is: 0.12559263062108236
+	Approx. Tree 32 intersection volume with Circle [3, 2] is: 19.179620919220074
+
+Tree 33 at -3.461, -7.004 found in: [2, 2]
+	Tree 33 crown volume is: 253.5943164399635
+	Tree 33 intersection percentage with Circle [2, 2] is: 1.0
+	Approx. Tree 33 intersection volume with Circle [2, 2] is: 253.5943164399635
+
+Tree 34 at 2.451, -1.276 found in: [2, 2]
+	Tree 34 crown volume is: 4897.32268059258
+	Tree 34 intersection percentage with Circle [2, 2] is: 1.0
+	Approx. Tree 34 intersection volume with Circle [2, 2] is: 4897.32268059258
+
+Tree 35 at -21.76, -7.817 found in: [2, 1]
+	Tree 35 crown volume is: 434.7894301978827
+	Tree 35 intersection percentage with Circle [2, 1] is: 1.0
+	Approx. Tree 35 intersection volume with Circle [2, 1] is: 434.7894301978827
+
+Tree 36 at -20.82, -17.36 found in: [1, 1]
+	Tree 36 crown volume is: 188.1518418177281
+	Tree 36 intersection percentage with Circle [1, 1] is: 1.0
+	Approx. Tree 36 intersection volume with Circle [1, 1] is: 188.1518418177281
+
+Tree 37 at -27.12, -22.85 found in: [1, 1]
+	Tree 37 crown volume is: 168.08886554256333
+	Tree 37 intersection percentage with Circle [1, 1] is: 1.0
+	Approx. Tree 37 intersection volume with Circle [1, 1] is: 168.08886554256333
+
+Tree 38 at -29.59, -37.23 found in: [1, 1]
+	Tree 38 crown volume is: 2257.7124326159187
+	Tree 38 intersection percentage with Circle [1, 1] is: 0.3916019224705319
+	Approx. Tree 38 intersection volume with Circle [1, 1] is: 884.124528998015
+
+Tree 39 at 12.58, 43.18 with radius 2.97995 not found within any grid circle!
+
+Tree 40 at 14.96, 33.27 found in: [3, 3]
+	Tree 40 crown volume is: 41.127747992450985
+	Tree 40 intersection percentage with Circle [3, 3] is: 0.31670020366720314
+	Approx. Tree 40 intersection volume with Circle [3, 3] is: 13.025166165582633
+
+Tree 41 at 6.615, 28.33 found in: [3, 2]
+	Tree 41 crown volume is: 104.07973476825771
+	Tree 41 intersection percentage with Circle [3, 2] is: 1.0
+	Approx. Tree 41 intersection volume with Circle [3, 2] is: 104.07973476825771
+
+Tree 42 at 3.201, 16.98 found in: [3, 2]
+	Tree 42 crown volume is: 1674.540272120673
+	Tree 42 intersection percentage with Circle [3, 2] is: 0.8343869577956959
+	Approx. Tree 42 intersection volume with Circle [3, 2] is: 1397.2145633611453
+
+Tree 42 at 3.201, 16.98 found in: [2, 2]
+	Tree 42 crown volume is: 1674.540272120673
+	Tree 42 intersection percentage with Circle [2, 2] is: 0.053973225375006234
+	Approx. Tree 42 intersection volume with Circle [2, 2] is: 90.38033950669336
+
+Tree 43 at 5.751, 7.223 found in: [2, 2]
+	Tree 43 crown volume is: 142.58452753801913
+	Tree 43 intersection percentage with Circle [2, 2] is: 1.0
+	Approx. Tree 43 intersection volume with Circle [2, 2] is: 142.58452753801913
+
+Tree 44 at -2.112, 8.5 found in: [3, 2]
+	Tree 44 crown volume is: 4010.8194919880884
+	Tree 44 intersection percentage with Circle [3, 2] is: 0.1677284848499226
+	Approx. Tree 44 intersection volume with Circle [3, 2] is: 672.7286763976983
+
+Tree 44 at -2.112, 8.5 found in: [2, 2]
+	Tree 44 crown volume is: 4010.8194919880884
+	Tree 44 intersection percentage with Circle [2, 2] is: 0.694817248933152
+	Approx. Tree 44 intersection volume with Circle [2, 2] is: 2786.786565390626
+
+Tree 45 at -13.91, -9.412 found in: [2, 1]
+	Tree 45 crown volume is: 3910.3187357608103
+	Tree 45 intersection percentage with Circle [2, 1] is: 0.2909725721723349
+	Approx. Tree 45 intersection volume with Circle [2, 1] is: 1137.7955005579959
+
+Tree 45 at -13.91, -9.412 found in: [2, 2]
+	Tree 45 crown volume is: 3910.3187357608103
+	Tree 45 intersection percentage with Circle [2, 2] is: 0.16086477842753039
+	Approx. Tree 45 intersection volume with Circle [2, 2] is: 629.0325570091835
+
+Tree 45 at -13.91, -9.412 found in: [1, 1]
+	Tree 45 crown volume is: 3910.3187357608103
+	Tree 45 intersection percentage with Circle [1, 1] is: 0.05372742624580154
+	Approx. Tree 45 intersection volume with Circle [1, 1] is: 210.09136147316485
+
+Tree 45 at -13.91, -9.412 found in: [1, 2]
+	Tree 45 crown volume is: 3910.3187357608103
+	Tree 45 intersection percentage with Circle [1, 2] is: 0.0036833425475268646
+	Approx. Tree 45 intersection volume with Circle [1, 2] is: 14.403043373819251
+
+Tree 46 at -7.1, -14.86 found in: [1, 2]
+	Tree 46 crown volume is: 212.15790872520842
+	Tree 46 intersection percentage with Circle [1, 2] is: 0.498857271198726
+	Approx. Tree 46 intersection volume with Circle [1, 2] is: 105.83651540988586
+
+Tree 47 at -11.79, -25.17 found in: [1, 1]
+	Tree 47 crown volume is: 430.06146781113176
+	Tree 47 intersection percentage with Circle [1, 1] is: 0.35219114406651464
+	Approx. Tree 47 intersection volume with Circle [1, 1] is: 151.46384036732707
+
+Tree 47 at -11.79, -25.17 found in: [1, 2]
+	Tree 47 crown volume is: 430.06146781113176
+	Tree 47 intersection percentage with Circle [1, 2] is: 0.5859936762223188
+	Approx. Tree 47 intersection volume with Circle [1, 2] is: 252.01330052421153
+
+Tree 48 at -23.89, -31.69 found in: [1, 1]
+	Tree 48 crown volume is: 978.4596340953359
+	Tree 48 intersection percentage with Circle [1, 1] is: 1.0
+	Approx. Tree 48 intersection volume with Circle [1, 1] is: 978.4596340953359
+
+Tree 49 at -14.81, -33.62 found in: [1, 1]
+	Tree 49 crown volume is: 349.03357089801153
+	Tree 49 intersection percentage with Circle [1, 1] is: 0.3216768051799118
+	Approx. Tree 49 intersection volume with Circle [1, 1] is: 112.2760039870086
+
+Tree 50 at 26.67, 26.86 found in: [3, 3]
+	Tree 50 crown volume is: 253.6898780914712
+	Tree 50 intersection percentage with Circle [3, 3] is: 1.0
+	Approx. Tree 50 intersection volume with Circle [3, 3] is: 253.6898780914712
+
+Tree 51 at 34.44, 25.18 found in: [3, 3]
+	Tree 51 crown volume is: 160.958476794215
+	Tree 51 intersection percentage with Circle [3, 3] is: 1.0
+	Approx. Tree 51 intersection volume with Circle [3, 3] is: 160.958476794215
+
+Tree 52 at 17.09, 19.77 found in: [3, 3]
+	Tree 52 crown volume is: 282.0731896488025
+	Tree 52 intersection percentage with Circle [3, 3] is: 0.9869906596343221
+	Approx. Tree 52 intersection volume with Circle [3, 3] is: 278.40360351662883
+
+Tree 53 at 13.82, 12.21 with radius 2.88879 not found within any grid circle!
+
+Tree 54 at 16.95, 2.025 found in: [2, 3]
+	Tree 54 crown volume is: 340.2602991122445
+	Tree 54 intersection percentage with Circle [2, 3] is: 1.0
+	Approx. Tree 54 intersection volume with Circle [2, 3] is: 340.2602991122445
+
+Tree 55 at 10.91, -6.101 found in: [2, 2]
+	Tree 55 crown volume is: 1927.5468702597868
+	Tree 55 intersection percentage with Circle [2, 2] is: 0.4449656134249976
+	Approx. Tree 55 intersection volume with Circle [2, 2] is: 857.6920755305803
+
+Tree 55 at 10.91, -6.101 found in: [2, 3]
+	Tree 55 crown volume is: 1927.5468702597868
+	Tree 55 intersection percentage with Circle [2, 3] is: 0.19352893607015959
+	Approx. Tree 55 intersection volume with Circle [2, 3] is: 373.0360950267425
+
+Tree 56 at 2.971, -11.84 found in: [2, 2]
+	Tree 56 crown volume is: 277.96306544275575
+	Tree 56 intersection percentage with Circle [2, 2] is: 0.5308417532834266
+	Approx. Tree 56 intersection volume with Circle [2, 2] is: 147.55440100766833
+
+Tree 56 at 2.971, -11.84 found in: [1, 2]
+	Tree 56 crown volume is: 277.96306544275575
+	Tree 56 intersection percentage with Circle [1, 2] is: 0.2839425164475704
+	Approx. Tree 56 intersection volume with Circle [1, 2] is: 78.92553228129677
+
+Tree 57 at 4.051, -19.76 found in: [1, 2]
+	Tree 57 crown volume is: 351.9197178737772
+	Tree 57 intersection percentage with Circle [1, 2] is: 1.0
+	Approx. Tree 57 intersection volume with Circle [1, 2] is: 351.9197178737772
+
+Tree 58 at -4.207, -23.12 found in: [1, 2]
+	Tree 58 crown volume is: 2816.335465878868
+	Tree 58 intersection percentage with Circle [1, 2] is: 1.0
+	Approx. Tree 58 intersection volume with Circle [1, 2] is: 2816.335465878868
+
+Tree 59 at -7.567, -39.72 found in: [1, 2]
+	Tree 59 crown volume is: 1634.2757122862813
+	Tree 59 intersection percentage with Circle [1, 2] is: 0.08995434728963202
+	Approx. Tree 59 intersection volume with Circle [1, 2] is: 147.0102049900109
+
+Tree 60 at -5.776, -31.54 found in: [1, 2]
+	Tree 60 crown volume is: 468.0300043018021
+	Tree 60 intersection percentage with Circle [1, 2] is: 0.9961294989299792
+	Approx. Tree 60 intersection volume with Circle [1, 2] is: 466.2184936693501
+
+Tree 61 at -15.55, -44.3 with radius 4.02907 not found within any grid circle!
+
+Tree 62 at 23.48, 38.8 found in: [3, 3]
+	Tree 62 crown volume is: 444.5732039027255
+	Tree 62 intersection percentage with Circle [3, 3] is: 0.24730222618562167
+	Approx. Tree 62 intersection volume with Circle [3, 3] is: 109.94394302761832
+
+Tree 63 at 30.86, 34.18 found in: [3, 3]
+	Tree 63 crown volume is: 150.48194353300747
+	Tree 63 intersection percentage with Circle [3, 3] is: 0.8472742345965333
+	Approx. Tree 63 intersection volume with Circle [3, 3] is: 127.49947352752764
+
+Tree 64 at 28.42, 15.55 found in: [3, 3]
+	Tree 64 crown volume is: 1845.6551503343333
+	Tree 64 intersection percentage with Circle [3, 3] is: 0.6874064457808001
+	Approx. Tree 64 intersection volume with Circle [3, 3] is: 1268.7152470283525
+
+Tree 64 at 28.42, 15.55 found in: [2, 3]
+	Tree 64 crown volume is: 1845.6551503343333
+	Tree 64 intersection percentage with Circle [2, 3] is: 0.14885621089837667
+	Approx. Tree 64 intersection volume with Circle [2, 3] is: 274.73723230384263
+
+Tree 65 at 25.66, 3.988 found in: [2, 3]
+	Tree 65 crown volume is: 127.18471273188784
+	Tree 65 intersection percentage with Circle [2, 3] is: 1.0
+	Approx. Tree 65 intersection volume with Circle [2, 3] is: 127.18471273188784
+
+Tree 66 at 23.25, -5.311 found in: [2, 3]
+	Tree 66 crown volume is: 434.346683097481
+	Tree 66 intersection percentage with Circle [2, 3] is: 1.0
+	Approx. Tree 66 intersection volume with Circle [2, 3] is: 434.346683097481
+
+Tree 67 at 16.98, -11.82 found in: [2, 3]
+	Tree 67 crown volume is: 279.7569945654298
+	Tree 67 intersection percentage with Circle [2, 3] is: 0.15534491322453414
+	Approx. Tree 67 intersection volume with Circle [2, 3] is: 43.45882604472316
+
+Tree 67 at 16.98, -11.82 found in: [1, 3]
+	Tree 67 crown volume is: 279.7569945654298
+	Tree 67 intersection percentage with Circle [1, 3] is: 0.017304396799729803
+	Approx. Tree 67 intersection volume with Circle [1, 3] is: 4.841026041460052
+
+Tree 68 at 11.96, -18.23 found in: [1, 2]
+	Tree 68 crown volume is: 226.34943861124688
+	Tree 68 intersection percentage with Circle [1, 2] is: 0.22386033237134983
+	Approx. Tree 68 intersection volume with Circle [1, 2] is: 50.670660559582174
+
+Tree 68 at 11.96, -18.23 found in: [1, 3]
+	Tree 68 crown volume is: 226.34943861124688
+	Tree 68 intersection percentage with Circle [1, 3] is: 0.07019470192907164
+	Approx. Tree 68 intersection volume with Circle [1, 3] is: 15.888531375129174
+
+Tree 69 at 9.758, -25.74 found in: [1, 2]
+	Tree 69 crown volume is: 189.73334447429403
+	Tree 69 intersection percentage with Circle [1, 2] is: 0.9948235509625527
+	Approx. Tree 69 intersection volume with Circle [1, 2] is: 188.75119948591842
+
+Tree 69 at 9.758, -25.74 found in: [1, 3]
+	Tree 69 crown volume is: 189.73334447429403
+	Tree 69 intersection percentage with Circle [1, 3] is: 0.0018354560486552008
+	Approx. Tree 69 intersection volume with Circle [1, 3] is: 0.34824721474692377
+
+Tree 70 at 2.235, -29.14 found in: [1, 2]
+	Tree 70 crown volume is: 159.73375866024753
+	Tree 70 intersection percentage with Circle [1, 2] is: 1.0
+	Approx. Tree 70 intersection volume with Circle [1, 2] is: 159.73375866024753
+
+Tree 71 at 4.566, -36.55 found in: [1, 2]
+	Tree 71 crown volume is: 714.0928866683411
+	Tree 71 intersection percentage with Circle [1, 2] is: 0.4724791773665581
+	Approx. Tree 71 intersection volume with Circle [1, 2] is: 337.3940196563686
+
+Tree 72 at 36.61, 16.91 found in: [3, 3]
+	Tree 72 crown volume is: 154.627341247714
+	Tree 72 intersection percentage with Circle [3, 3] is: 0.12352402413469928
+	Approx. Tree 72 intersection volume with Circle [3, 3] is: 19.100191432167005
+
+Tree 73 at 35.2, 9.192 found in: [2, 3]
+	Tree 73 crown volume is: 810.3985397716864
+	Tree 73 intersection percentage with Circle [2, 3] is: 0.2994952350678229
+	Approx. Tree 73 intersection volume with Circle [2, 3] is: 242.71050116754162
+
+Tree 74 at 33.13, 1.496 found in: [2, 3]
+	Tree 74 crown volume is: 1265.3785430753371
+	Tree 74 intersection percentage with Circle [2, 3] is: 0.9173863138239714
+	Approx. Tree 74 intersection volume with Circle [2, 3] is: 1160.8409572238309
+
+Tree 75 at 30.93, -6.593 found in: [2, 3]
+	Tree 75 crown volume is: 390.4712092717605
+	Tree 75 intersection percentage with Circle [2, 3] is: 0.9999216129571603
+	Approx. Tree 75 intersection volume with Circle [2, 3] is: 390.44060138835164
+
+Tree 76 at 24.58, -13.71 found in: [2, 3]
+	Tree 76 crown volume is: 716.6303829475055
+	Tree 76 intersection percentage with Circle [2, 3] is: 0.2971484176795777
+	Approx. Tree 76 intersection volume with Circle [2, 3] is: 212.9455843539611
+
+Tree 76 at 24.58, -13.71 found in: [1, 3]
+	Tree 76 crown volume is: 716.6303829475055
+	Tree 76 intersection percentage with Circle [1, 3] is: 0.6327119738929647
+	Approx. Tree 76 intersection volume with Circle [1, 3] is: 453.4206241463874
+
+Tree 77 at 26.71, -21.75 found in: [1, 3]
+	Tree 77 crown volume is: 527.6732006567366
+	Tree 77 intersection percentage with Circle [1, 3] is: 1.0
+	Approx. Tree 77 intersection volume with Circle [1, 3] is: 527.6732006567366
+
+Tree 78 at 18.79, -22.15 found in: [1, 3]
+	Tree 78 crown volume is: 273.6722923636585
+	Tree 78 intersection percentage with Circle [1, 3] is: 1.0
+	Approx. Tree 78 intersection volume with Circle [1, 3] is: 273.6722923636585
+
+Tree 79 at 16.34, -30.34 found in: [1, 3]
+	Tree 79 crown volume is: 511.827061070475
+	Tree 79 intersection percentage with Circle [1, 3] is: 0.8281989699361706
+	Approx. Tree 79 intersection volume with Circle [1, 3] is: 423.89464476402486
+
+Tree 80 at 17.56, -38.18 found in: [1, 3]
+	Tree 80 crown volume is: 151.44337464444496
+	Tree 80 intersection percentage with Circle [1, 3] is: 0.0034086146474194014
+	Approx. Tree 80 intersection volume with Circle [1, 3] is: 0.5162121050676791
+
+Tree 81 at -0.06103, -45.06 with radius 2.83805 not found within any grid circle!
+
+Tree 82 at 44.99, 15.14 with radius 4.3184 not found within any grid circle!
+
+Tree 83 at 45.6, 4.262 with radius 4.264 not found within any grid circle!
+
+Tree 84 at 32.88, -16.64 found in: [1, 3]
+	Tree 84 crown volume is: 370.33892931959
+	Tree 84 intersection percentage with Circle [1, 3] is: 0.6465327623100429
+	Approx. Tree 84 intersection volume with Circle [1, 3] is: 239.43625096393825
+
+Tree 85 at 41.93, -13.84 with radius 2.93483 not found within any grid circle!
+
+Tree 86 at 31.63, -29.56 found in: [1, 3]
+	Tree 86 crown volume is: 118.56379079219678
+	Tree 86 intersection percentage with Circle [1, 3] is: 1.0
+	Approx. Tree 86 intersection volume with Circle [1, 3] is: 118.56379079219678
+
+Tree 87 at 24.05, -32.04 found in: [1, 3]
+	Tree 87 crown volume is: 545.7492519090038
+	Tree 87 intersection percentage with Circle [1, 3] is: 1.0
+	Approx. Tree 87 intersection volume with Circle [1, 3] is: 545.7492519090038
+
+Tree 88 at 8.023, -44.75 with radius 3.17631 not found within any grid circle!
+
+Tree 89 at 40.86, -4.532 with radius 2.5904 not found within any grid circle!
+
+Tree 90 at 39.84, -23.18 found in: [1, 3]
+	Tree 90 crown volume is: 393.2327646610416
+	Tree 90 intersection percentage with Circle [1, 3] is: 0.09747264213044472
+	Approx. Tree 90 intersection volume with Circle [1, 3] is: 38.329436543771095
+
